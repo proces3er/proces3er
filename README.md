@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex (Ziheng) Wang</h1>
 <h3 align="center">A third year computer science student at UNSW</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proces3er" alt="proces3er" /></a> </p>
+- 🌱 I’m currently learning **REACT, SPING**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/alex(ziheng) wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex(ziheng) wang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,3 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=proces3er&show_icons=true&locale=en&layout=compact" alt="proces3er" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=proces3er&show_icons=true&locale=en" alt="proces3er" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=proces3er&" alt="proces3er" /></p>
