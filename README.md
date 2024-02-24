@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex (Ziheng) Wang</h1>
 <h3 align="center">A third year computer science student at UNSW</h3>
 
-- 🌱 I’m currently learning **REACT, SPING**
+- 🌱 I’m currently learning **REACT, SPRING**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
